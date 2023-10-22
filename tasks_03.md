@@ -47,7 +47,8 @@ int main()
 int main()
 {
     int a = 0;
-    do{
+    do
+    {
         std::cout << "a";
     } while(a);
 }
