@@ -38,7 +38,6 @@ int main()
     int a = 0;
     while (a)
     {
-        а--;
         std::cout << "a";
     }
 }
@@ -49,7 +48,6 @@ int main()
 {
     int a = 0;
     do{
-        а--;
         std::cout << "a";
     } while(a);
 }
