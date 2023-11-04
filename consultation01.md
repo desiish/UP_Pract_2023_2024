@@ -22,7 +22,7 @@ int main()
 #include <iostream>
 int main()
 {
-    int a = "A";
+    char a = "A";
     std::cout << a << std::endl;
 }
 ```
