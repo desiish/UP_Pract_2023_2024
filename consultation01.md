@@ -236,8 +236,8 @@ int main()
 #include <iostream>
 int main()
 {
-  	int i = 6;
-  	while (std::cout << i, ----i);
+    int i = 6;
+    while (std::cout << i, ----i);
 }
 ```
 </details>
