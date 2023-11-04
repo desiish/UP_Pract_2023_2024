@@ -74,30 +74,15 @@ int main()
     double a = 19.03;
     double b = 4.91;
     int c = a + b;
-    std::cout << c << " " << c / 10 << std::endl;
-}
-```
-</details>
-
-<details>
-<summary> <b>Пример №6</b> </summary>
-  
-Какво ще отпечата следният код?
-```c++
-#include <iostream>
-int main()
-{
-    int c = 5;
-    c *= 2;
-    c /= 3;
-    double d = c * (10 / 2.0);
+    double d = c / (2 * 1.0);
     std::cout << c << " " << d << std::endl;
 }
 ```
 </details>
 
+
 <details>
-<summary> <b>Пример №7</b> </summary>
+<summary> <b>Пример №6</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
@@ -111,7 +96,7 @@ int main()
 </details>
 
 <details>
-<summary> <b>Пример №8</b> </summary>
+<summary> <b>Пример №7</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
@@ -125,7 +110,7 @@ int main()
 </details>
 
 <details>
-<summary> <b>Пример №9</b> </summary>
+<summary> <b>Пример №8</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
