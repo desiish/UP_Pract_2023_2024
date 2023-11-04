@@ -253,7 +253,7 @@ using namespace std;
 int num = 10;
 int fun(int num)
 {
-    cout << num;
+    cout << ++num;
     return num * 3;
 }
 int main() {
