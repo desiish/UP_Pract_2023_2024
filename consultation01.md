@@ -242,9 +242,26 @@ int main()
 ```
 </details>
 
-## IV. Функции
+## IV. Функции. Референции
 <details>
 <summary> <b>Пример №1</b> </summary>
+  
+Какво ще отпечата следният код?
+```c++
+#include <iostream>
+using namespace std;
+int main() {
+    int a = 10;
+    int& b = a;
+    int c = 12;
+    b = c;
+    c--;
+    cout << b;
+}
+```
+</details>
+<details>
+<summary> <b>Пример №2</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
@@ -264,7 +281,7 @@ int main() {
 ```
 </details>
 <details>
-<summary> <b>Пример №2</b> </summary>
+<summary> <b>Пример №3</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
@@ -282,7 +299,7 @@ int main() {
 </details>
 
 <details>
-<summary> <b>Пример №3</b> </summary>
+<summary> <b>Пример №4</b> </summary>
   
 Кои функции няма да предизвикат двусмислица?
 ```c++
@@ -309,7 +326,7 @@ char cout(char a) { return a; } //9
 </details>
 
 <details>
-<summary> <b>Пример №4</b> </summary>
+<summary> <b>Пример №5</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
