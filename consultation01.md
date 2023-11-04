@@ -305,23 +305,23 @@ int main() {
 ```c++
 #include <iostream>
 using namespace std;
-void cout(char a) { std::cout << a; } //1
+void f(char a) { std::cout << a; } //1
 
-void cout(int a) { std::cout << a; } //2
+void f(int a) { std::cout << a; } //2
 
-void cout(char a, int b) { std::cout << a << '-' << b; } //3
+void f(char a, int b) { std::cout << a << '-' << b; } //3
 
-void cout(double a, char b) { std::cout << b << '-' << a; } //4
+void f(double a, char b) { std::cout << b << '-' << a; } //4
 
-void cout(bool a) { std::cout << a; } //5
+void f(bool a) { std::cout << a; } //5
 
-void cout(char a, bool b, int c) { std::cout << a <<b << c; } //6
+void f(char a, bool b, int c) { std::cout << a <<b << c; } //6
 
-void cout(const int a) { std::cout << a; } //7
+void f(const int a) { std::cout << a; } //7
 
-void cout(char a, unsigned b) { std::cout << a << '-' <<b; } //8
+void f(char a, unsigned b) { std::cout << a << '-' <<b; } //8
 
-char cout(char a) { return a; } //9
+char f(char a) { return a; } //9
 ```
 </details>
 
