@@ -160,7 +160,7 @@ int main()
 int main()
 {
     int a = 23;
-    if(a += а -= 3)
+    if(a -= а += 3)
         a++;
     std::cout << a;
 }
