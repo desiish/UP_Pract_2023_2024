@@ -313,7 +313,6 @@ char cout(char a) { return a; } //9
   
 Какво ще отпечата следният код?
 ```c++
-#include <cstdio>
 #include <iostream>
 using namespace std;
 
