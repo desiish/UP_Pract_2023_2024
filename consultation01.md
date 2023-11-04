@@ -186,35 +186,6 @@ int main()
 <details>
 <summary> <b>Пример №4</b> </summary>
   
-Пренапишете кода с if else конструкция.
-```c++
-#include <iostream>
-int main()
-{
-    unsigned a;
-    std::cin >> a;
-    switch(a)
-    {
-        case 0: std::cout << "zero" << std::endl;
-        case 2:
-        case 4:
-        case 6:
-        case 8:
-        case 10: std::cout << "even" << std::endl; break;
-        case 1:
-        case 3:
-        case 5:
-        case 7:
-        case 9: std::cout << "odd" << std::endl; break;
-        default: std:: cout << "not less than 11" << std::endl;
-    }
-}
-```
-</details>
-
-<details>
-<summary> <b>Пример №5</b> </summary>
-  
 Пренапишете кода със switch case конструкция.
 ```c++
 #include <iostream>
