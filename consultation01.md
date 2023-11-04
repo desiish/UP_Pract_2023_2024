@@ -48,7 +48,7 @@ int main()
 </details>
 
 <details>
-<summary> <b>Пример 4</b> </summary>
+<summary> <b>Пример №4</b> </summary>
   
 Какво ще отпечата следният код?
 ```c++
