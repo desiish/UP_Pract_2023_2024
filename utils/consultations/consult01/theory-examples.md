@@ -194,7 +194,7 @@ int main()
       int a;
       cin >> a;
       if (a != 1) cout << “isn`t one”;
-      if ((a >= 2) && (a<=4)) cout << “between two & four”;
+      if ((a >= 2) && (a <= 4)) cout << “between two & four”;
       if (a != 4) cout << “isn`t four”;
 }
 ```
