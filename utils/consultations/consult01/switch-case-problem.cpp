@@ -17,8 +17,8 @@ int main()
     {
       case 1: cout << "isn`t four " << endl; break;
       case 2:
-      case 3: cout << "isn`t one " << "between " << "isn`t four" << endl; break;
-      case 4: cout << "isn`t one " << "between " << endl; break;
+      case 3: cout << "isn`t one " << "between two & four " << "isn`t four" << endl; break;
+      case 4: cout << "isn`t one " << "between two & four " << endl; break;
       default: cout << "isn`t one " << "isn`t four " << endl; break;
     }
 }
