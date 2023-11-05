@@ -26,7 +26,7 @@ bool isPalindrome(unsigned n)
 {
     return n == reversed(n);
 }
-void printAllPalindromeSuffixes(unsigned n)
+void printAllPalindromeOrPrimeSuffixes(unsigned n)
 {
     unsigned dev = 10;
     unsigned currentSuffix;
@@ -42,5 +42,5 @@ int main()
 {
     int num;
     cin >> num;
-    printAllPalindromeSuffixes(num);
+    printAllPalindromeOrPrimeSuffixes(num);
 }
