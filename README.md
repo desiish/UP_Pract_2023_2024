@@ -5,4 +5,5 @@
 - [**Тема 3:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_03.md) Цикли. Оператори break и continue.
 - [**Тема 4:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_04.md) Функции - част 1.
 - [**Тема 5:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_05.md) Функции - част 2. Референции.
+- [**Материали от семинарите**](https://github.com/Angeld55/Introduction_to_programming_FMI)
 - [**Допълнителни материали**](https://github.com/desiish/UP_Pract_2023_2024/tree/main/utils) (консултации)
