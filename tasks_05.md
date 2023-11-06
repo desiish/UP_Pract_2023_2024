@@ -4,9 +4,9 @@
 #include <iostream>
 double f()
 {
-	double num1 = 4;
-	double num2 = 4 / 7;
-	return (num2-- = ++num1 + 2);
+     double num1 = 4;
+     double num2 = 4 / 7;
+     return (num2-- = ++num1 + 2);
 }
 ```
 
