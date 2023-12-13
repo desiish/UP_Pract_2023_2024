@@ -21,7 +21,7 @@ char getCharFromIndex(int index)
         return index + '0';
 
     if (index >= 10 && index <= 15)
-        return index + 'A' + 10;
+        return index + 'A' - 10;
 
     return 0;
 }
