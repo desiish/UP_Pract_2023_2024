@@ -10,6 +10,6 @@
 - [**Тема 8:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_08.md) Побитови операции.
 - [**Тема 9:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_09.md) Многомерни масиви.
 - [**Тема 10:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_10.md) Указатели. Символни низове.
-- [**Тема 11:**]() Динамична памет.
+- [**Тема 11:**](https://github.com/desiish/UP_Pract_2023_2024/blob/main/tasks_11.md) Динамична памет.
 - [**Материали от семинарите**](https://github.com/Angeld55/Introduction_to_programming_FMI)
 - [**Допълнителни материали**](https://github.com/desiish/UP_Pract_2023_2024/tree/main/utils) (консултации и решения на задачки)
