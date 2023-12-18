@@ -91,6 +91,7 @@ lh3*5s
 ```c++
 Hi here nice o mee you.
 [3 13 18]
+t
 ```
 Изход:
 ```c++
